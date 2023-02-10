@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_coreui_coreui_free_react_admin_template=self.webpackChunk_coreui_coreui_free_react_admin_template||[]).push([[746],{68746:function(e,r,a){a.r(r);a(72791),a(78983),a(33035),a(24846);var c=a(80184);r.default=function(){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)("h1",{children:"service not available"})})}}}]);
+//# sourceMappingURL=746.c2ce39f9.chunk.js.map
